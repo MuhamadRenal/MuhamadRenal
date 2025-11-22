@@ -1,35 +1,26 @@
-<h1 align="center">✨ Muhamad Renal ✨</h1>
-
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="100" alt="Logo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=180&section=header&text=Muhamad%20Renal%20🔥&fontSize=48&fontAlignY=50&fontColor=FFF8DC" width="100%" />
 </p>
 
 <p align="center">
-  <b>Computer Science | Back-End Developer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF7F50&center=true&vCenter=true&width=600&lines=Computer+Science+Enthusiast;Back-End+Developer;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-### 👋 About Me
-Hi! I'm **Muhamad Renal**, a backend-focused learner who loves exploring system logic, clean architecture, and efficient problem-solving.  
-Still learning, still improving — every day is progress.
+### 🌟 About Me
+- 🎓 **Computer Science**
+- 🧩 **Back-End Dev**
+- ⚙️ Passionate about building reliable systems  
+- 🧠 Love learning new technologies & solving problems
 
 ---
 
-### 🛠️ Tech Interests
-- Back-End Development  
-- APIs & Microservices  
-- Databases & Server Logic  
-- Automation & Problem Solving  
+### ✨ Quote
+> **"Keep learning. Progress beats perfection."**
 
 ---
 
-### 📌 Motivation
-> **"Keep building. Every small step compounds into mastery."**
-
----
-
-### 🌐 Connect With Me
-- GitHub: **MuhamadRenal**
-- Coming soon: portfolio & more projects!
-
+### 🚀 Tech Stack
+**Languages & Tools:**  
+`Java` · `PHP` · `JavaS
