@@ -1,33 +1,35 @@
+<h1 align="center">✨ Muhamad Renal ✨</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=180&section=header&text=Muhamad%20Renal%20🔥&fontSize=48&fontAlignY=50&fontColor=FFF8DC" width="100%" />
+  <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="100" alt="Logo" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,nodejs,ts,express,mysql,postgres,redis,linux,git,github" />
+  <b>Computer Science | Back-End Developer</b>
 </p>
 
 ---
 
-### 👋 Hi, I’m **Muhamad Renal**
-- 🖥️ Passionate about **Computer Science**
-- ⚙️ Currently focused on **Back-End Development**
-- 🚀 Love exploring system design, performance, and clean architectures
+### 👋 About Me
+Hi! I'm **Muhamad Renal**, a backend-focused learner who loves exploring system logic, clean architecture, and efficient problem-solving.  
+Still learning, still improving — every day is progress.
 
 ---
 
-### 🧩 Tech Stack  
-**Languages:** Java • Python • JavaScript • TypeScript  
-**Back-End:** Node.js • Express • Spring • REST API  
-**Database:** MySQL • PostgreSQL • Redis  
-**Tools:** Git • Linux • Docker  
+### 🛠️ Tech Interests
+- Back-End Development  
+- APIs & Microservices  
+- Databases & Server Logic  
+- Automation & Problem Solving  
 
 ---
 
-### ✨ Quote
-> **"Keep learning. Keep building. Keep growing."**
+### 📌 Motivation
+> **"Keep building. Every small step compounds into mastery."**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:FFD700,50:FF4500,0:8B0000&height=150&section=footer" width="100%" />
-</p>
+### 🌐 Connect With Me
+- GitHub: **MuhamadRenal**
+- Coming soon: portfolio & more projects!
+
