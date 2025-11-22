@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3200&pause=800&color=C00000&center=true&width=750&lines=%22Clean+Code+is+not+written+once,+but+rewritten+forever.%22;“Good+software+is+built+on+great+decisions.”;“Code+is+art+when+logic+meets+emotion.%22;“Think+Deep,+Build+Smart,+Ship+Fast.”" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3200&pause=800&color=C00000&center=true&width=780&lines=Software+Engineer+⚡;Computer+Science+💻;BackEnd+Developer+🚀;%22Berproses+itu+melelahkan,+tapi+diam+takah+lebih+menyakitkan.%22;%22Belajar+sedikit+setiap+hari+lebih+kuat+dari+menyerah+seketika.%22;%22Progres+kecil+hari+ini+adalah+prestasi+besar+di+masa+depan.%22" />
 </p>
 
 <div align="center">
@@ -24,9 +24,9 @@
 
 <p align="center">
 Hello! I'm <strong>Muhamad Renal</strong> — also known as <strong>RenalDev 🎯</strong>.<br/>
-A passionate <strong>Software Engineer</strong> who loves building reliable systems,<br/>
-crafting clean architectures, and bringing ideas to life through code.<br/><br/>
-I focus on writing code that is <strong>clean, scalable, maintainable, and expressive.</strong><br/>
+A passionate <strong>Software Engineer</strong> who enjoys building efficient systems,<br/>
+designing scalable architectures, and solving real-world problems through code.<br/><br/>
+I believe in writing code that is <strong>clean, maintainable, and meaningful.</strong><br/>
 </p>
 
 <p align="center">
@@ -38,13 +38,13 @@ I focus on writing code that is <strong>clean, scalable, maintainable, and expre
 ## 🔥 Core Engineering Activity 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System%20Design%20Enthusiast-%F0%9F%94%8D-0A0F2C?style=for-the-badge&logo=diagram&logoColor=C00000" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture%20Builder-%F0%9F%94%A7-3A6FF7?style=for-the-badge&logo=git&logoColor=8B0000" />
-  <img src="https://img.shields.io/badge/High%20Performance%20Code-%F0%9F%9A%80-C00000?style=for-the-badge&logo=github&logoColor=3A6FF7" />
+  <img src="https://img.shields.io/badge/BackEnd%20Engineering-%F0%9F%94%A7-0A0F2C?style=for-the-badge&logo=node.js&logoColor=C00000" />
+  <img src="https://img.shields.io/badge/System%20Design-%F0%9F%94%8D-3A6FF7?style=for-the-badge&logo=diagram&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%E2%9A%97%EF%B8%8F-C00000?style=for-the-badge&logo=github&logoColor=3A6FF7" />
 </p>
 
 <p align="center">
-  <i>“The best engineering isn’t seen — it’s felt.” ✨</i>
+  <i>“Setiap baris kode adalah langkah kecil menuju versi diri yang lebih baik.” ✨</i>
 </p>
 
 <p align="center">
@@ -63,5 +63,4 @@ I focus on writing code that is <strong>clean, scalable, maintainable, and expre
   <img src="https://img.shields.io/badge/React-%F0%9F%94%8E-0A0F2C?style=for-the-badge&logo=react&logoColor=3A6FF7"/>
   <img src="https://img.shields.io/badge/Next.js-%F0%9F%8C%9A-3A6FF7?style=for-the-badge&logo=next.js&logoColor=8B0000"/>
   <img src="https://img.shields.io/badge/Node.js-%F0%9F%8C%8D-0A0F2C?style=for-the-badge&logo=node.js&logoColor=C00000"/>
-  <img src="https://img.shields.io/badge/Docker-%F0%9F%9A%A7-8B0000?style=for-the-badge&logo=docker&logoColor=3A6FF7"/>
-</p>
+  <img src="https://img.shields.io/badge/Docker-%F0%9F%9A%A7-8B0000?style=for-the-bad
