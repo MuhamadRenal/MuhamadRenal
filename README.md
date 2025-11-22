@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=180&section=header&text=Muhamad%20Renal%20🔥&fontSize=48&fontAlignY=50&fontColor=FFF8DC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=180&section=header&text=Muhamad%20Renal%20⚙️&fontSize=48&fontAlignY=50&fontColor=FFF8DC" width="100%" />
 </p>
 
 
