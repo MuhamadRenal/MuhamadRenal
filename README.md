@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2A47,50:1D5D8C,100:4FA3D1&height=180&section=header&text=Muhamad%20Renal%20⚙️&fontSize=48&fontAlignY=50&fontColor=EAF6FF" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=22&pause=1200&color=4FA3D1&center=true&vCenter=true&width=600&lines=Software+Engineer;Computer+Science+Enthusiast;Back-End+Developer;Logic+is+the+most+powerful+tool+to+conquer+the+world.;Keep+learning%2C+keep+building." />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3200&pause=800&color=C00000&center=true&width=780&lines=Software+Engineer+⚡;Computer+Science+Student+💡;Back-End+Developer+🛠️;“Keep+learning,+keep+building.”;“Progress+beats+perfection.”;“Every+line+is+a+step+forward.”" />
