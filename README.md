@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=C00000&center=true&width=650&lines=Code+Artist+🎨;Creative+Developer+🚀;Aesthetic+Logic+Engineer+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=C00000&center=true&width=680&lines=Software+Engineer+⚙️;Fullstack+Builder+🚀;System+Design+Thinker+🔧;Clean+Code+Enthusiast+✨" />
 </p>
 
 <div align="center">
@@ -62,5 +62,4 @@ I love building interfaces that feel smooth, alive, and expressive.<br/>
   <img src="https://img.shields.io/badge/React-%F0%9F%94%8E-0A0F2C?style=for-the-badge&logo=react&logoColor=3A6FF7"/>
   <img src="https://img.shields.io/badge/Next.js-%F0%9F%8C%9A-3A6FF7?style=for-the-badge&logo=next.js&logoColor=8B0000"/>
   <img src="https://img.shields.io/badge/Node.js-%F0%9F%8C%8D-0A0F2C?style=for-the-badge&logo=node.js&logoColor=C00000"/>
-  <img src="https://img.shields.io/badge/Docker-%F0%9F%9A%A7-8B0000?style=for-the-badge&logo=docker&logoC
-
+  <img src="https://im
